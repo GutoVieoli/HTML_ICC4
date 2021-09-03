@@ -1,0 +1,75 @@
+*{
+   box-sizing: border-box;
+   background-color: rgb(199, 241, 227);
+}
+
+.center {
+   display: block;
+   margin-top: -15px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.subimg {
+   display: block;
+   margin-top: -40px;
+}
+.sobre {
+   display: block;
+   margin-top: 150px;
+   margin-left: 20px;
+}
+.arvore {
+   display: block;
+   margin-left: 420px;
+   margin-top: -480px;
+}
+.botao {
+   display: block;
+   margin-top: -440px;
+   margin-left: 80px;
+}
+.augusto{
+   display: block;
+   margin-top: -120px;
+   margin-left: 950px;
+}
+.marcelo{
+   display: block;
+   margin-top: -80px;
+   margin-left: 800px;
+}
+.fernando{
+   display: block;
+   margin-top: -80px;
+   margin-left: 650px;
+}
+.manoel{
+   display: block;
+   margin-top: -210px;
+   margin-left: 715px;
+}
+.soraya{
+   display: block;
+   margin-top: -80px;
+   margin-left: 885px;
+}
+.helio{
+   display: block;
+   margin-top: -210px;
+   margin-left: 855px;
+}
+.rosa{
+   display: block;
+   margin-top: -80px;
+   margin-left: 990px;
+}
+.oliveira{
+   display: block;
+   margin-top: -80px;
+   margin-left: 745px;
+}
+.maria{
+   display: block;
+   margin-top: -80px;
+   margin-left: 620px;
+}
